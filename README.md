@@ -1047,7 +1047,7 @@ The code for the timer and the **timer selection** is located in [private/IRTime
 | Zero (SAMD)                                                              | **TC3**           | \*, **9**           | |
 | [ESP8266](http://esp8266.net/)                                           | **timer1**        | %                   | |
 | [ESP32](http://esp32.net/)                                               | **hw_timer_t**<br/>**Ledc channel 0** | All pins | |
-| [Sparkfun Pro Micro](https://www.sparkfun.com/products/12640)            | 1, **3**          | **5**, 9            | |
+| [Sparkfun Pro Micro](https://www.sparkfun.com/pro     | 1, **3**          | **5**, 9            | |
 | [Teensy 1.0](https://www.pjrc.com/teensy/pinout.html)                    | **1**             | **17**              | 15, 18 |
 | [Teensy 2.0](https://www.pjrc.com/teensy/pinout.html)                    | 1, 3, **4_HS**    | 9, **10**, 14       | 12 |
 | [Teensy++ 1.0 / 2.0](https://www.pjrc.com/teensy/pinout.html)            | 1, **2**, 3       | **1**, 16, 25       | 0 |
